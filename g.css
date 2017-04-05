@@ -1,0 +1,35 @@
+*{
+  margin:0;
+  padding:0;
+ 
+  box-sizing:border-box;
+  font-size:16px;
+}
+ul,ol{
+  list-style:none;
+}
+div{
+  display:flex;
+  justify-content:center;;
+}
+section{
+  
+  padding:1em;
+}
+.lside{
+  margin-right:3em;
+}
+button{
+  margin-top:30px;
+}
+
+input{
+  min-width:260px;
+  margin-top:20px
+}
+.preview{
+  line-height:30px
+}
+.preview p{
+  margin:1em 0;
+}
